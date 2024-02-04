@@ -1,2 +1,10 @@
-# spring-database-api
-Spring Boot Database API
+# Spring Boot Database API
+
+### Build
+`
+./gradlew clean build
+`
+### Run Locally
+`
+./gradlew bootRun
+`
